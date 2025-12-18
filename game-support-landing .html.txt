@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Online Game Support</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Online game support and assistance page">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="container">
+    <h1>Online Game Support</h1>
+
+    <p class="subtitle">
+      Assistance for gameplay issues, account help, and general support.
+    </p>
+
+    <div class="card">
+      <p>
+        Our support team helps users with:
+      </p>
+      <ul>
+        <li>Game login & access issues</li>
+        <li>General gameplay guidance</li>
+        <li>Account related queries</li>
+        <li>Technical assistance</li>
+      </ul>
+
+      <a href="https://wa.me/919616734847" class="btn">
+        Contact Support on WhatsApp
+      </a>
+    </div>
+
+    <p class="footer-note">
+      This page is for support & information only.  
+      No payments or transactions are handled here.
+    </p>
+  </div>
+
+</body>
+</html>
